@@ -1,0 +1,41 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 80px;
+  }
+
+  .container {
+    flex-direction: column;
+  }
+  .container #dıs div {
+    width: 100%;flex-direction: column;
+  }
+   .navout{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 80px;
+ 
+   }
+   .cogulres{
+    flex-direction: column; 
+    width: 100%;
+   
+    
+   }
+   .cogulres ul li a img{
+    width: 100%;flex-direction: column;
+    
+   }
+   
+   #selbod {
+   width: 500;
+   }
+  .card{
+    width: 100%;
+  }
+  
+ 

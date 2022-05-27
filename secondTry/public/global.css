@@ -1,0 +1,88 @@
+.text-center {
+    text-align: center;
+  }
+  .btn-size{
+      display: flex;
+color: rgb(0, 0, 0);
+
+      
+  }
+  .image-size{
+    display: flex;
+      width: 105px;
+     
+      margin-bottom: 0px;
+     justify-content: center;
+      align-self:center;
+      border: solid 4px rgb(238, 223, 10);
+  }
+  .barbie-pink{
+      background-color: rgb(238, 10, 86);
+  }
+  
+  /*.font-fam2{
+    font-family: 'Hurricane', cursive;
+    font-size: 2rem;
+  }*/
+  .font-famil{
+    font-family: 'Architects Daughter', cursive;
+  }
+  .body-bor{
+border-left: 20px solid #b84baf;
+border-right: 20px solid rgb(140, 103, 243);
+border-bottom:20px solid #d43364;
+
+  }
+  .navout{
+background-color:#cc00ff;
+color: black;
+text-align: center;
+/*display: flex;
+align-content: stretch;*/
+
+  }
+  .another-color{
+      background-color: #008cff;
+
+  }.form-group {
+    padding: 0.25rem 0;
+  }
+  .form-group label {
+    display: block;
+    
+  }
+  .form-control {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 5px;
+  }
+  
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .btn-block {
+    width: 100%;
+    text-align: center;
+  }
+  .heading-small {
+    font-size: 1.25rem;
+  }
+  .heading-medium {
+    font-size: 1.5rem;
+  }
+  .heading-big {
+    font-size: 1.75rem;
+  }
+  .bg-dark-blue {
+    background: #6b0196;
+  }
+  .bg-light-blue {
+    background: #d43364;
+  }
+  .bg-light {
+    background: #fff;
+  }
+  
